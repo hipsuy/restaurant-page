@@ -1,1 +1,1 @@
-console.log("workinggggg!!!");
+(()=>{"use strict";console.log("workinggggg!!!"),function(){let e=document.querySelector("#content"),t=document.createElement("p");t.textContent="The Spice Island",t.setAttribute("id","heading"),e.appendChild(t);let n=document.createElement("p");n.textContent="Set up in 1995, The Spicy Island has firmly established itself in the culinary scene. Let your tastebuds run wild! Come visit the hottest place in town !",n.setAttribute("id","description"),e.appendChild(n)}()})();
