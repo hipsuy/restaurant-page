@@ -24,3 +24,14 @@ img{
     width: 60%;
     text-shadow: 1px 1px #131111;
 }
+
+.topnav {
+    background-color: rgb(109, 141, 201, 0.5);
+    overflow: hidden;
+  }
+
+.tab {
+    border-radius: 5px;
+    font-size: medium;
+}
+
