@@ -1,0 +1,37 @@
+body{
+    background-image: url("wallpaper.jpg"); 
+
+}
+
+img{
+    opacity: 20%;
+}
+#heading{
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 450%;
+    text-align: center;
+    text-shadow: 4px 4px #131111;
+    
+}
+
+#description{
+    background: rgba(50, 66, 50, 0.6);
+    color: white;
+    font-size: 140%;
+    margin: auto;
+    text-align:justify;
+    width: 60%;
+    text-shadow: 1px 1px #131111;
+}
+
+.topnav {
+    background-color: rgb(109, 141, 201, 0.5);
+    overflow: hidden;
+  }
+
+.tab {
+    border-radius: 5px;
+    font-size: medium;
+}
+
